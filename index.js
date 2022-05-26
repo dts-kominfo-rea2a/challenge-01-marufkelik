@@ -28,7 +28,7 @@ const secondUser = {
                 {name: "SMA 01", city: "Surabaya", graduate: "2016"},
                 {name: "Universitas Maju", city: "Tangerang"},
 ],
-    favoriteRestaurant : new Set(["Bento", "Sushi", "Pancake", "Eggy", "Tempura", "Bento", "Eggy", "Padang", "Tteok", "Sushi", "Sushi"])
+    favoriteRestaurant : new Set(["Tempura", "Bento", "Sushi", "Pancake", "Padang", "Katsu", "Geprek", "Pancake", "Eggy"])
 
 };
 
